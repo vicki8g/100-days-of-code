@@ -27,7 +27,7 @@
 
 **Link to work:** https://www.freecodecamp.com/vicki8g & https://www.codewars.com/users/vickig
 
-### Day 4: January 11 2017 
+### Day 3: January 11 2017 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Taking on hackerrank challenges. The tutorial is based off Java so I signed up for the 7 days of javascript but that doesnt unlock until Feb....
@@ -36,7 +36,7 @@
 
 **Link to work:** https://www.freecodecamp.com/vicki8g & https://www.codewars.com/users/vickig & https://www.hackerrank.com/giannaceres
 
-### Day 5: January 12 2017 
+### Day 4: January 12 2017 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Taking on hackerrank challenges & a few freecodecamp 
