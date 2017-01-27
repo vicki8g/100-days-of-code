@@ -44,3 +44,12 @@
 **Thoughts:** Not doing too much this week because I have an exam tomorrow but got to have something done!!!
 
 **Link to work:** https://www.freecodecamp.com/vicki8g & https://www.codewars.com/users/vickig & https://www.hackerrank.com/giannaceres
+
+### Day 15: January 21 2017 
+##### (delete me or comment me out)
+
+**Today's Progress**: Did a kata on codewars and gonna try and do another algorithms - Javascript day
+
+**Thoughts:** I think if I start commiting each of my kata & alorithms for quick reference.
+
+**Link to work:** https://www.freecodecamp.com/vicki8g & https://www.codewars.com/users/vickig & https://www.hackerrank.com/giannaceres
