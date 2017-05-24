@@ -48,3 +48,15 @@
 **Thoughts:** I think if I start commiting each of my kata & alorithms for quick reference.
 
 **Link to work:** https://www.freecodecamp.com/vicki8g & https://www.codewars.com/users/vickig & https://www.hackerrank.com/giannaceres
+
+### Day 1: May 24 2017 (@nd time around)
+
+**Today's Progress**: reviewing the differences b/w dot & bracket notation. https://www.codecademy.com/en/forum_questions/5026792fcd302a00020777a9
+
+completing the FCC challenge: Truncate a string 
+
+Complete another kata on codewars : https://www.codewars.com/kata/5592e3bd57b64d00f3000047/train/javascript
+
+**Thoughts:** Getting back into this challenge :)
+
+**Link to work:**  https://www.freecodecamp.com/challenges/truncate-a-string
